@@ -1,0 +1,3 @@
+(admin,admin)
+(Sakhi,ZaWarudo1001)
+(Damuldor,GeorexBazooka)
